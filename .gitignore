@@ -1,0 +1,24 @@
+# Java
+*.class
+*.log
+
+# Gradle
+.gradle/
+build/
+out/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# JARs
+*.jar
+
+# JavaDoc
+docs/
+
+# System files
+*.iml
+.idea/
